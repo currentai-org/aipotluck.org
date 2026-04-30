@@ -1,5 +1,5 @@
 /**
- * Source copy for the AI Potluck one-pager (March 2026).
+ * Source copy for the AI Potluck one-pager (May 2026).
  */
 
 export const site = {
@@ -9,10 +9,9 @@ export const site = {
       "A collective roadmap for the public interest AI stack — an invitation and blueprint for anchor partners and governments.",
   },
   hero: {
-    label: "A",
     title: "AI Potluck",
     subtitle: "A collective roadmap for the public interest AI stack",
-    attribution: "Ayah Bdeir et al, Current AI · March 2026",
+    attribution: "Ayah Bdeir et al, Current AI · May 2026",
   },
   whoFor: {
     id: "who-for",

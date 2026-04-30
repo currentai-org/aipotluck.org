@@ -10,12 +10,6 @@ export function Hero() {
     >
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_50%_0%,rgba(0,0,0,0.02),transparent_60%)]" />
       <div className="relative mx-auto max-w-4xl text-center">
-        <p
-          className="mb-4 font-mono text-xs uppercase tracking-[0.35em] text-[var(--ink-muted)]"
-          aria-hidden
-        >
-          {hero.label}
-        </p>
         <h1
           id="hero-title"
           className="font-serif text-[clamp(2.75rem,9vw,5.25rem)] font-medium leading-[0.95] tracking-[-0.02em] text-[var(--ink)]"
